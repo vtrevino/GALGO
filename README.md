@@ -20,7 +20,6 @@ Changes in Galgo 1.2:
 Galgo source is available on the links below.
 
 #MANUAL INSTALLATION OF THE SOURCE PACKAGE (updated to 1.3)
-===========================================================
 On Windows:
 - You may need Rtools for this. see http://cran.r-project.org/bin/windows/
 - Install needed packages in R. Open R and type: install.packages(c("R.oo", "MASS", "class", "e1071", "rpart", "nnet", "randomForest"))
