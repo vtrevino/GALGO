@@ -22,29 +22,29 @@ Galgo source is available on the links below.
 #MANUAL INSTALLATION OF THE SOURCE PACKAGE (updated to 1.3)
 ===========================================================
 On Windows:
-(1) You may need Rtools for this. see http://cran.r-project.org/bin/windows/
-(2) Install needed packages in R. Open R and type: install.packages(c("R.oo", "MASS", "class", "e1071", "rpart", "nnet", "randomForest"))
-(3) Download galgo_1.x.tar.gz file.
-(4) Open the CMD terminal program.
-(5) cd to the folder where your compressed galgo file is.
-(6) Make sure R is under your PATH. Type: echo %PATH%. If yes, jump to 8.
-(7) Add R to your path (adapt your version and location), type: SET PATH=%PATH%;C:\Program Files\R\R-3.0.2\bin;
-(8) type: R CMD INSTALL galgo_1.x.tar.gz
-(9) Run R and type "library(galgo)". It should now work.
+- You may need Rtools for this. see http://cran.r-project.org/bin/windows/
+- Install needed packages in R. Open R and type: install.packages(c("R.oo", "MASS", "class", "e1071", "rpart", "nnet", "randomForest"))
+- Download galgo_1.x.tar.gz file.
+- Open the CMD terminal program.
+- cd to the folder where your compressed galgo file is.
+- Make sure R is under your PATH. Type: echo %PATH%. If yes, jump to 8.
+- Add R to your path (adapt your version and location), type: SET PATH=%PATH%;C:\Program Files\R\R-3.0.2\bin;
+- type: R CMD INSTALL galgo_1.x.tar.gz
+- Run R and type "library(galgo)". It should now work.
 
 On Mac OS X:
-(1) Install needed packages in R. Open R and type: install.packages(c("R.oo", "MASS", "class", "e1071", "rpart", "nnet", "randomForest"))
-(2) Download galgo_1.x.tar.gz file.
-(3) In R, Select option "Package Installer" from "Packages & Data" menu.
-(4) Select "local source package" in the "Packages Repository"
-(5) Click on "Install" button.
-(6) Select galgo_1.x.tar.gz from the download location.
-(7) type "library(galgo)". It should now work.
+- Install needed packages in R. Open R and type: install.packages(c("R.oo", "MASS", "class", "e1071", "rpart", "nnet", "randomForest"))
+- Download galgo_1.x.tar.gz file.
+- In R, Select option "Package Installer" from "Packages & Data" menu.
+- Select "local source package" in the "Packages Repository"
+- Click on "Install" button.
+- Select galgo_1.x.tar.gz from the download location.
+- type "library(galgo)". It should now work.
 
 On Linux:
-(1) Install needed packages in R. Open R and type: install.packages(c("R.oo", "MASS", "class", "e1071", "rpart", "nnet", "randomForest"))
-(2) Download galgo_1.3.tar.gz file.
-(3) Open a terminal.
-(4) cd to the folder where your compressed galgo file is.
-(5) type: R CMD INSTALL galgo_1.3.tar.gz
-(6) Run R and type "library(galgo)". It should now work.
+- Install needed packages in R. Open R and type: install.packages(c("R.oo", "MASS", "class", "e1071", "rpart", "nnet", "randomForest"))
+- Download galgo_1.3.tar.gz file.
+- Open a terminal.
+- cd to the folder where your compressed galgo file is.
+- type: R CMD INSTALL galgo_1.3.tar.gz
+- Run R and type "library(galgo)". It should now work.
