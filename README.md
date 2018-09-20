@@ -19,8 +19,7 @@ Changes in Galgo 1.2:
 
 Galgo source is available on the links below.
 
-===========================================================
-MANUAL INSTALLATION OF THE SOURCE PACKAGE (updated to 1.3)
+#MANUAL INSTALLATION OF THE SOURCE PACKAGE (updated to 1.3)
 ===========================================================
 On Windows:
 (1) You may need Rtools for this. see http://cran.r-project.org/bin/windows/
