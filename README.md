@@ -43,8 +43,8 @@ On Mac OS X:
 
 On Linux:
 - Install needed packages in R. Open R and type: install.packages(c("R.oo", "MASS", "class", "e1071", "rpart", "nnet", "randomForest"))
-- Download galgo_1.3.tar.gz file.
+- Download galgo_1.x.tar.gz file.
 - Open a terminal.
 - cd to the folder where your compressed galgo file is.
-- type: R CMD INSTALL galgo_1.3.tar.gz
+- type: R CMD INSTALL galgo_1.x.tar.gz
 - Run R and type "library(galgo)". It should now work.
