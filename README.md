@@ -1,6 +1,6 @@
 # GALGO
 
-GALGO IS NOW ON CRAN.
+GALGO IS NOW ON CRAN. So, you should be able to install it via _install.packages("galgo")_
 
 
 Thanks for all galgo users. We have considered all e-mails and requests to provide a version of Galgo for R 3. The new version of R 3 is a major revision, so galgo was also revised to be able to run smoothely in R 3.
